@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  email: MyString
+  user_id: 1
+  picture_id: 1
+  amount: 1
+  size: MyString
+  address: MyText
+  country: MyString
+  postal_code: MyString
+  stripe_id: MyString
+  stripe_token: MyString
+  card_expiration: 2015-03-29
+
+two:
+  email: MyString
+  user_id: 1
+  picture_id: 1
+  amount: 1
+  size: MyString
+  address: MyText
+  country: MyString
+  postal_code: MyString
+  stripe_id: MyString
+  stripe_token: MyString
+  card_expiration: 2015-03-29
